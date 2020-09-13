@@ -29,7 +29,7 @@
     }
 }
 
-/*SmallSize (ms) devises*/
+/*SmallSize (ss) devises*/
 @media (max-width: 767px) {
     .col-ss-1 {
         float: left;
